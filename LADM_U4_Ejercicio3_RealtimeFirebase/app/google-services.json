@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "926956615176",
+    "firebase_url": "https://ladmu4ejercicio3realtime-d61da-default-rtdb.firebaseio.com",
+    "project_id": "ladmu4ejercicio3realtime-d61da",
+    "storage_bucket": "ladmu4ejercicio3realtime-d61da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926956615176:android:9d3d6cf238d4f6dbd803bd",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u4_ejercicio3_realtimefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926956615176-fg6ikae4iuvfsbp21r110o2nf4i1rh2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtiytOTBFBUa-1VL-GKWho4LqjXgyg1PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926956615176-fg6ikae4iuvfsbp21r110o2nf4i1rh2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926956615176:android:6f162a5e84dc972fd803bd",
+        "android_client_info": {
+          "package_name": "ittepic.edu.ladm_u4_ejercicio3_realtimefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926956615176-fg6ikae4iuvfsbp21r110o2nf4i1rh2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtiytOTBFBUa-1VL-GKWho4LqjXgyg1PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926956615176-fg6ikae4iuvfsbp21r110o2nf4i1rh2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

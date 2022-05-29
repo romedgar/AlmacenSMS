@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "830065721179",
+    "firebase_url": "https://proyecto4ladmtectepicegrm-default-rtdb.firebaseio.com",
+    "project_id": "proyecto4ladmtectepicegrm",
+    "storage_bucket": "proyecto4ladmtectepicegrm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830065721179:android:5435cc7e8e5eadb486e47e",
+        "android_client_info": {
+          "package_name": "ittepic.edu.ladm_u3_ejercicio4_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830065721179-2fkq7jod3egv1v189p93bqptpskron83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADj93AWKRKvZtlz_s8WLZaB4Z4USigdKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830065721179-2fkq7jod3egv1v189p93bqptpskron83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
